@@ -21,6 +21,7 @@
   "homepage": "https://github.com/kafui010/mern-blog-final#readme",
   "dependencies": {
     "express": "^4.21.0",
+    "mongoose": "^8.7.0",
     "nodemon": "^3.1.7"
   }
 }
